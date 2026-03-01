@@ -1,0 +1,22 @@
+# Auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.idx
+*.ind
+*.ilg
+
+# Build artifacts
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
